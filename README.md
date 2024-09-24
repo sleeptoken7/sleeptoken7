@@ -1,4 +1,4 @@
-<h1 align="center">Greetings fella's 👋, I'm Purabh Singh</h1>
+<h1 align="center">Greeting fella's 👋, I'm Purabh Singh</h1>
 <h3 align="center">Bridging the Gap Between Concept and Creation</h3>
 
 - 🔭 I’m currently working on **Information Architecture**
